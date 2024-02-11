@@ -7,8 +7,9 @@ While the application is still in its early stages and requires further developm
 As part of my ongoing efforts to fulfill the requirements for a larger project, this sprint entails enhancing my proficiency in the Java language. My application will now be able to seamlessly integrate data sourced from external files into its expandable lists.
 
 
-[Module 1 Software Demo Video](https://youtu.be/jZsc9xSw0fA)
-[Module 2 Software Demo Video](https://youtu.be/EIIZVxpkA4k)
+* [Module 1 Software Demo Video](https://youtu.be/jZsc9xSw0fA)
+
+* [Module 2 Software Demo Video](https://youtu.be/EIIZVxpkA4k)
 
 
 # Development Environment Notes
