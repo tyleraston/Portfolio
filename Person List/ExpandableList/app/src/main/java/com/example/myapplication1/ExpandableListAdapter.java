@@ -12,9 +12,9 @@ import java.util.List;
 
 public class ExpandableListAdapter extends BaseExpandableListAdapter {
 
-    private Context context;
-    private List<String> listDataHeader;
-    private HashMap<String, List<String>> listDataChild;
+    private final Context context;
+    private final List<String> listDataHeader;
+    private final HashMap<String, List<String>> listDataChild;
 
     public ExpandableListAdapter(Context context, List<String> listDataHeader, HashMap<String, List<String>> listChildData) {
         this.context = context;
