@@ -1,9 +1,9 @@
-# Overview - Android App (Expandable List App)
+# 1 Overview - Android App (Expandable List App)
 My primary job responsibility involves working within groups of 8-12 individuals, each of whom has an extensive binder containing their developmental goal documentation. Managing this documentation often necessitates multiple trips to storage cabinets, diverting my attention away from the group. This application addresses this challenge by providing me with convenient access to their documentation on a tablet. The information is organized in a list format, with each person's documentation stored under their name in a collapsible list item.
 
 While the application is still in its early stages and requires further development, it serves as a starting point for a larger project. This undertaking will not only enable me to contribute to a more substantial and useful project in the future but also serve as a valuable opportunity for learning mobile application development.
 
-# Overview - Java Language (Populate List from a file)
+# 2 Overview - Java Language (Populate List from a file)
 As part of my ongoing efforts to fulfill the requirements for a larger project, this sprint entails enhancing my proficiency in the Java language. My application will now be able to seamlessly integrate data sourced from external files into its expandable lists.
 
 
