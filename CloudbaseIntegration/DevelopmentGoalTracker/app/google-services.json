@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451301719881",
+    "project_id": "developmentgoaltracker",
+    "storage_bucket": "developmentgoaltracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451301719881:android:097e056ab285ad107b2498",
+        "android_client_info": {
+          "package_name": "com.example.developmentgoaltracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZYv3Iph55N_r9CFkhvEclHAWJEtyZTQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
